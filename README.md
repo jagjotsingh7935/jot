@@ -13,8 +13,8 @@
 >* Responsible for Main Anchoring 2021-Content Creator
 >* Social Media Handles:
 >
->>* [Instagram]()
->>* [Snapchat]()
+>>* [Instagram](https://www.instagram.com/invites/contact/?i=1avaurvcodcl0&utm_content=6t7c6fm)
+>>* [Snapchat](https://www.snapchat.com/add/jot22871?share_id=4Y9a9g0SGUs&locale=en-GB)
 
 ---
 
@@ -39,5 +39,26 @@
 
 >* Gold Medalist 400m(College Atheletic Meet)
 >* Certificates in College Level PPT Competitions
+
+Name |Class
+---|---
+Jot |19
+
+
+(https://user-aimages.githubusercontent.com/109655748/180470138-2674522c-b496-4fd9-86bd-094d2e64fba9.png)
+
+`a="Hello"
+print(a)
+`
+
+- [x] task1 ↔️
+- [ ] task2 ⏫
+- [x] task3 ⤴️
+
+
+
+
+
+
 
 
