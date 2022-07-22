@@ -45,7 +45,7 @@ Name |Class
 Jot |19
 
 
-(https://user-aimages.githubusercontent.com/109655748/180470138-2674522c-b496-4fd9-86bd-094d2e64fba9.png)
+[Python](https://user-images.githubusercontent.com/109655748/180472552-6ea38ec2-4a16-4d58-a5b9-f3d98d980d55.png)
 
 `a="Hello"
 print(a)
